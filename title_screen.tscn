@@ -10,12 +10,12 @@ grow_vertical = 2
 
 [node name="Label" type="Label" parent="."]
 layout_mode = 0
-offset_left = 307.0
-offset_top = 4.0
-offset_right = 353.0
-offset_bottom = 27.0
+offset_left = 22.0
+offset_top = 3.0
+offset_right = 109.0
+offset_bottom = 26.0
 scale = Vector2(12.9932, 12.0372)
-text = "GAME"
+text = "Spellbound"
 
 [node name="Button" type="Button" parent="."]
 layout_mode = 0
